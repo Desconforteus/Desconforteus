@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Me chamo Mateus e estou cursando Engenharia de Software.
 <!--
 **Desconforteus/Desconforteus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
